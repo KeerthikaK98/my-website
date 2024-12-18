@@ -106,7 +106,7 @@ section {
     margin: auto 0;
 
     img {
-        width: 475px;
+        width: 100%;
         border-radius: 2rem;
     }
 }
@@ -262,7 +262,7 @@ section {
   color: rgb(85, 85, 85);
   font-weight: 600;
   font-size: 1.75rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 .experience-details-container {
@@ -280,7 +280,7 @@ section {
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 2.5rem;
+  gap: 1.5rem;
   justify-content: space-around;
 }
 
