@@ -212,8 +212,10 @@ section {
 }
   
 .about-details-container {
-    justify-content: center;
     flex-direction: column;
+}
+.about-details-container > .about-containers {
+  margin-top: 0;
 }
   
 .about-containers, .about-details-container {
